@@ -10,6 +10,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 /**
+ * test
  * 发送和接收数据
  * 作者： 代码来自于Google官方 -> API指南 -> 蓝牙模块
  */
