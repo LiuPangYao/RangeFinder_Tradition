@@ -22,6 +22,9 @@ import java.io.OutputStream;
  */
 
 public class ConnectedThread extends Thread {
+
+    // test 123
+
     private static final String TAG = "ConnectedThread";
     private final BluetoothSocket mmSocket;
     private final InputStream mmInStream;
